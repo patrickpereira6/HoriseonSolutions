@@ -18,7 +18,7 @@
 
 
 ## Screenshots
-[Screenshots of webpage](assets\images\Screenshot1.JPG),(assets\images\screenshot2.JPG)
+[Screenshots of webpage] (assets\images\Screenshot1.JPG),(assets\images\screenshot2.JPG)
 
 ## Contribution
 Refactored with ❤️ by Patrick Pereira
